@@ -1,0 +1,1 @@
+This repository demonstrates a common error when working with the Firebase Realtime Database: incorrectly setting the data structure, leading to unexpected behavior or data loss. The `bug.js` file shows the incorrect implementation, while `bugSolution.js` provides the correct approach.  The primary issue is how data is structured and set within the database.
